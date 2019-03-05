@@ -1,0 +1,1 @@
+[1]	B. Soleimani Neysiani and S. M. Babamir, "Automatic Interconnected Lexical Typo Correction in Bug Reports of Software Triage Systems," presented at the The International Conference on Contemporary Issues in Data Science, Zanjan, Iran, 2019.
